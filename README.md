@@ -8,3 +8,6 @@ Modelagem de objetos por meio de curvas de Beziér utilizando a API Canvas2D, qu
     - Parametrização do número de pontos (variaveis DIM e N_PONTOS_CONT)
     - Forma de interação com o programa explicado na interface gráfica
  
+### Demo
+
+![Demo](https://github.com/nikolascm/bezier_curves/blob/main/bezier_curves.gif)
