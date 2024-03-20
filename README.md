@@ -1,6 +1,6 @@
 # Curvas de Beziér
 
-Modelagem de objetos por meio de curvas de Beziér utilizando a API Canvas2D, que faz uso de outras APIs como OpenGL/FreeGlut (mais detalhes e como utilizá-las estão disponíveis neste [manual]()). Trabalho desenvolvido para a disciplina de Computação Gráfica, ministrada pelo professor César Pozzer.
+Modelagem de objetos por meio de curvas de Beziér utilizando a API Canvas2D, que faz uso de outras APIs como OpenGL/FreeGlut (mais detalhes e como utilizá-las estão disponíveis neste [manual](https://github.com/nikolascm/bezier_curves/blob/main/bezier_curves/Manual%20Canvas2D.pdf)). Trabalho desenvolvido para a disciplina de Computação Gráfica, ministrada pelo professor César Pozzer.
 
 ### Requisitos implementados:
     - Modelagem do objeto com opcao de rotação e translação
